@@ -6,3 +6,8 @@ This function helps protect me when I'm on the internet.
 The next function I'd like to talk about is manipulation of file systems.
 I like to play video games and having the files on my hard drive make it smoother to play.
 My operating system decides and manages how the game's files should be manipulated and stored.
+
+Another function I'd like to talk about is how my operating system handles input/output operations.
+My operating system interfaces my screen, mouse and keyboard in the most effective way to help me play my best.
+As a video gamer, my screen resolution and refresh rate help me make better and faster decisions.
+Being able to adjust my mouse sensitivity and keyboard hotkeys help me perform better and give me an edge.
