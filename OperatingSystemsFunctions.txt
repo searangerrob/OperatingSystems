@@ -2,3 +2,7 @@ The first function of an operating system I'd like to talk about is security.
 Today, there are more and more reports of cyber & identity theft.
 My operateing system requires a very unigue password that only I know.
 This function helps protect me when I'm on the internet.
+
+The next function I'd like to talk about is manipulation of file systems.
+I like to play video games and having the files on my hard drive make it smoother to play.
+My operating system decides and manages how the game's files should be manipulated and stored.
